@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/impan-gowda-288161269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/impan-gowda-288161269/" height="30" width="40" /></a>
 <a href="https://fb.com/impan gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="impan gowda" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/impan.gowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/impan.gowda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ig5712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ig5712" height="30" width="40" /></a>
+<a href="www.youtube.com/@ig5712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ig5712" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
